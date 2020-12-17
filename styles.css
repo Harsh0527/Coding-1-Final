@@ -1,0 +1,30 @@
+h1{
+    font-size: 80px;
+    text-align: center;
+    color: aqua;
+}
+p{
+  font-size:45px;
+  color:black;
+  font-family: helvetica;
+}
+body{
+    background-color: lightblue;
+    text-shadow:none;
+    font-weight: normal;
+}
+.text{
+    font-size:60px;
+    font-family: helvetica;
+    font-weight: normal;
+}
+.ski123{
+    height: 150px;
+    width:200px;
+    border-color:black;
+}
+
+
+    
+    
+

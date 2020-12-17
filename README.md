@@ -1,2 +1,2 @@
 # Coding-1-Final
- These are the starter files for F2020 Coding 1
+My website is about why you should go skiing and my experience skiing. My website starts on the home page and it shows a carousel about professional skiers and ski resort.  Then I go to my about page it tells you about why I like skiing and why you should go skiing. Then there's is a picture of my family going skiing at Salt Lake City Utah. Then on my last page the contact page it has a phone number and my school email to ask for any questions. I also styled my website with adding a background color and changing fonts. 
